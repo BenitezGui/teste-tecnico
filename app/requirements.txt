@@ -1,0 +1,6 @@
+pandas # pandas for >= 2.0.
+python-calamine
+glob
+pathlib
+re
+XlsxWriter
